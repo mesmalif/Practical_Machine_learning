@@ -7,8 +7,8 @@ Is a tree based algorithm that tries to find how soon each point will be isolate
 
 Please watch my [Youtube video](https://www.youtube.com/watch?v=qNDcPUeCEPI) regarding isolation forest [here.](https://www.youtube.com/watch?v=qNDcPUeCEPI)
 
-## 2- K Nearest Neighbors: 
-is an algorithm that can be used in both supervised and unsupervised approachs. 
+## 2- K Nearest Neighbors (KNN): 
+KNN is an algorithm that can be used in both supervised and unsupervised approachs. 
 
 [In this video,](https://www.youtube.com/watch?v=RwmttGrJs08) I am explaining how unsupervised KNN can be applied in anomaly detection problems [(click here for the video).](https://www.youtube.com/watch?v=RwmttGrJs08)
 
